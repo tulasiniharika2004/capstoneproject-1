@@ -1,0 +1,499 @@
+.demo1{
+	height: 720px;
+	width: 100%;
+	background-image: url('bakeingimages/bake1.jpg');
+	background-position: center;
+	background-repeat: no repeat;
+	background-size: cover;
+	margin-bottom: 1px;
+}
+.demo11{
+	height: 600px;
+	width: 400px;
+	margin-left: 730px;
+	justify-items: center;
+	padding-top: 150px;
+	padding-left: 100px;
+	font-size: 25px;
+}
+.a{
+	color: orange;
+
+}
+.b{
+	color: white;
+}
+.c{
+	border-radius: 50px;
+	border: none;
+	background-color: orange;
+	color: white;
+}
+.demo2{
+	height: 500px;
+	width: 100%;
+	background-image: url('bakeingimages/bake2.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-top: 20px;
+	position: relative;
+	margin-top: -9px;
+}
+.demo2a{
+	color: white;
+}
+.demo3{
+	height: 700px;
+	width: 100%;
+	background-color: #F5DEB3;
+    
+}
+.demo21{
+	height: 300px;
+	width: 200px;
+	background-color: white;
+	margin-bottom: 300px;
+	float: left;
+	margin-left: 300px;
+	margin-top: 150px;
+	border-radius: 30px;
+	padding-top: 50px;
+	padding-left: 8px;
+	padding-right: 8px;
+	box-sizing: border-box;
+}
+.demo22{
+	height: 300px;
+	width: 200px;
+	background-color: white;
+	margin-bottom: 300px;
+	float: left;
+	margin-left: 10px;
+	margin-top: 150px;
+	border-radius: 30px;
+	padding-top: 50px;
+	padding-left: 8px;
+	padding-right: 8px;
+	box-sizing: border-box;
+}
+.demo23{
+	height: 300px;
+	width: 200px;
+	background-color: white;
+	margin-bottom: 300px;
+	float: left;
+	margin-left: 10px;
+	margin-top: 150px;
+	border-radius: 30px;
+	padding-top: 50px;
+	padding-left: 8px;
+	padding-right: 8px;
+	box-sizing: border-box;
+}
+.demo24{
+	height: 300px;
+	width: 200px;
+	background-color: white;
+	margin-bottom: 300px;
+	float: left;
+	margin-left: 10px;
+	margin-top: 150px;
+	border-radius: 30px;
+	padding-top: 50px;
+	padding-left: 8px;
+	padding-right: 8px;
+	box-sizing: border-box;
+}
+span{
+	color: orange;
+}
+u{
+	color: orange;
+}
+.demo21 i{
+	height: 50px;
+	width: 50px;
+	color: white;
+	background-color: orange;
+	border-radius: 500px;
+	font-size: 30px;
+	padding-top: 7px;
+	box-sizing: border-box;
+}
+.demo22 i{
+	height: 50px;
+	width: 50px;
+	color: white;
+	background-color: orange;
+	border-radius: 500px;
+	font-size: 30px;
+	padding-top: 7px;
+	box-sizing: border-box;
+}
+.demo23 i{
+	height: 50px;
+	width: 50px;
+	color: white;
+	background-color: orange;
+	border-radius: 500px;
+	font-size: 30px;
+	padding-top: 5px;
+	box-sizing: border-box;
+}
+.demo24 i{
+	height: 50px;
+	width: 50px;
+	color: white;
+	background-color: orange;
+	border-radius: 500px;
+	font-size: 30px;
+	padding-top: 6px;
+	box-sizing: border-box;
+}
+
+.demo32{
+	height: 200px;
+	width: 300px;
+	margin-left: 900px;
+	margin-bottom: 600px;
+	justify-content: center;
+	position: relative;
+	bottom: 150px;
+	}
+.demo31{
+	height: 30px;
+	width: 100px;
+	color: white;
+	border-radius: 50px;
+	border: none;
+	background-color: orange;
+
+}
+.demo3 img{
+	height: 300px;
+	width: 300px;
+	border-radius: 200px;	
+	margin-right: 100px;
+	margin-top: -270px;
+	margin-left: 400px;
+	margin-bottom: -80px;
+	
+}
+.demo4{
+	height: 600px;
+	width: 100%;
+	background-color: white;
+}
+.demo41{
+	height: 330px;
+	width: 300px;
+	background-color: orange;
+	float: left;
+	position: relative;
+	bottom: 150px;
+	left: 180px;
+	border-radius: 20px;
+	color: white;
+	padding-left: 10px;
+}
+.demo42{
+	height: 330px;
+	width: 300px;
+	background-color: brown;
+	float: left;
+	position: relative;
+	bottom: 150px;
+	left: 220px;
+	border-radius: 20px;
+	color: white;
+	padding-left: 10px;
+}
+.demo43{
+	height: 330px;
+	width: 300px;
+	background-color: orange;
+	float: left;
+	position: relative;
+	bottom: 150px;
+	left: 250px;
+	border-radius: 20px;
+	color: white;
+	padding-left: 10px;
+}
+.demo44{
+	height: 200px;
+	width: 500px;
+}
+.demo441{
+	height: 30px;
+	width: 150px;
+	background-color: orange;
+	border-radius: 20px;
+	border: none;
+	color: white;
+}
+.demo5{
+	height: 500px;
+	width: 100%;
+	background-image: url('bakeingimages/bake4.avif');
+	background-position: center;
+	background-repeat: no repeat;
+	background-size: cover;
+	padding-top: 50px;
+}
+.demo51{
+	height: 400px;
+	width: 350px;
+	background-color: white;
+	margin-left: 800px;
+	border-radius: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	box-sizing: border-box;
+}
+.demo52{
+	margin-left: 5px;
+	word-spacing: 3px;
+}
+.demo6{
+	height: 800px;
+	width: 100%;
+	background-color: white;
+	
+}
+.demo61{
+	height: 100px;
+	width: 100%;
+	text-align: center;
+
+}
+.demo6 p{
+	color: grey;
+
+}
+.demo62{
+	height: 300px;
+	width: 100%;
+	padding-left: 250px;
+	padding-top: 50px;
+	box-sizing: border-box;
+}
+.demo62 h2{
+	color: orange;
+}
+.demo621{
+	height: 300px;
+	width: 200px;
+	float: left;
+	margin-left: 20px;
+	
+}
+.demo621 img{
+	height: 80px;
+	width: 80px;
+	border-radius: 50px;
+}
+.demo622{
+	height: 300px;
+	width: 200px;
+	float: left;
+	margin-left: 50px;
+	
+}
+.demo622 img{
+	height: 80px;
+	width: 80px;
+	border-radius: 50px;
+}
+.demo623{
+	height: 300px;
+	width: 200px;
+	float: left;
+	margin-left: 50px;
+	
+}
+.demo623 img{
+	height: 80px;
+	width: 80px;
+	border-radius: 50px;
+}
+.demo624{
+	height: 300px;
+	width: 200px;
+	float: left;
+	margin-left: 50px;
+}
+.demo624 img{
+	height: 80px;
+	width: 80px;
+	border-radius: 50px;
+}
+
+
+
+
+
+
+.demo63{
+	height: 300px;
+	width: 100%;
+	padding-left: 250px;
+	padding-top: 50px;
+	box-sizing: border-box;
+}
+.demo63 h2{
+	color: orange;
+}
+.demo631{
+	height: 300px;
+	width: 200px;
+	float: left;
+	margin-left: 20px;
+	
+}
+.demo631 img{
+	height: 80px;
+	width: 80px;
+	border-radius: 50px;
+}
+.demo632{
+	height: 300px;
+	width: 200px;
+	float: left;
+	margin-left: 50px;
+	
+}
+.demo632 img{
+	height: 80px;
+	width: 80px;
+	border-radius: 50px;
+}
+.demo633{
+	height: 300px;
+	width: 200px;
+	float: left;
+	margin-left: 50px;
+	
+}
+.demo633 img{
+	height: 80px;
+	width: 80px;
+	border-radius: 50px;
+}
+.demo634{
+	height: 300px;
+	width: 200px;
+	float: left;
+	margin-left: 50px;
+}
+.demo634 img{
+	height: 80px;
+	width: 80px;
+	border-radius: 50px;
+}
+.demo64{
+	height: 100px;
+	width: 100%;
+	background-color: orange;
+}
+.demo7{
+	height: 150px;
+	width: 100%;
+	background-color: orange;
+}
+.demo71{
+	height: 80px;
+	width: 100px;
+	padding-left: 80px;
+	padding-top: 50px;
+	float: left;
+	margin-left: 50px;
+	
+
+}
+.demo71 i{
+	height: 50px;
+	width: 50px;
+	background-color: white;
+	color: orange;
+	border-radius: 500px;
+	padding-top: 10px;
+	padding-left: 12px;
+	font-size: 30px;
+	padding-top: 7px;
+	box-sizing: border-box;
+	
+}
+.demo72{
+	color: white;
+	height: 50px;
+	width: 500px;
+	padding-top: 30px;
+	float: left;
+	margin-left: 40px;
+}
+.demo73{
+	height: 100px;
+	width: 50px;
+	float: left;
+	padding-top: 50px;
+	margin-left: 50px;
+}
+.demo731{
+	height: 30px;
+	width: 150px;
+	background-color: orange;
+	border-radius: 20px;
+	border:2px solid white;
+	color: white;
+}
+.demo8{
+	height: 600px;
+	width: 100%;
+	background-image: url('bakeingimages/bake13.avif');
+	background-position: center;
+	background-repeat: no repeat;
+	background-size: cover;
+	margin-top: -10px;
+	color: white;
+}
+.demo81{
+	height: 30px;
+	width: 130px;
+	background-color: orange;
+	border-radius: 20px;
+	border: none;
+	color: white;
+}
+.demo82{
+	height: 50px;
+	width: 500px;
+	margin-left: 700px;
+}
+.demo83{
+	height: 30px;
+	width: 130px;
+	border-radius: 20px;
+	background-color: transparent;
+	color: white;
+	border: 2px solid white;
+	margin-left: 10px;
+}
+.demo9{
+	height: 500px;
+	width: 100%;
+	background-image: url('bakeingimages/bake14.avif');
+	background-position: center;
+	background-repeat: no repeat;
+	background-size: cover;
+}
+.demo91{
+	width: 300px;
+	height: 400px;
+	margin-left: 300px;
+	padding-top: 30px;
+}
+.demo91 h2{
+	color: orange;
+}
